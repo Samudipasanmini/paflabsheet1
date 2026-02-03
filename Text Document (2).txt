@@ -1,0 +1,5 @@
+<html>
+	<head><b><u>UI/UX Engineering</b></u> </head>
+	<body> Essential UI/UX principles focus on creating user-centered, intuitive, and accessible digital products. Key pillars include maintaining consistency in design elements, establishing a clear visual hierarchy to guide attention, maximizing simplicity to reduce cognitive load, and providing instant feedback for user actions. </body>
+</html>
+	
